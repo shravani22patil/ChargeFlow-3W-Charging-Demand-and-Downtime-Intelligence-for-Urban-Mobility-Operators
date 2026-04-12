@@ -250,17 +250,7 @@ CREATE TABLE recommended_hubs (
 );
 ```
 
----
 
-## 📝 Resume Bullets
-
-> Copy-paste ready for job applications. ATS-optimized.
-
-1. **Built an end-to-end EV fleet analytics product** (Python, Pandas, GeoPandas, Streamlit) simulating 60-vehicle × 60-day operations across 10 urban zones; computed spatial accessibility scores and downtime risk scores using haversine distance + composite weighting, revealing a simulated 18% revenue loss from charger-access gaps.
-
-2. **Designed and implemented a data pipeline** integrating the Open Charge Map REST API with an SQLite backend, automating ingestion, fallback synthetic data generation, KMeans hub clustering (scikit-learn), and ROI simulation for 1–10 new charging point scenarios — deployed on Streamlit Community Cloud.
-
-3. **Developed a 6-page interactive analytics dashboard** (Folium maps, Plotly charts, scenario sliders) translating operational fleet data into business recommendations for EV infrastructure investment, demonstrating skills in product thinking, geospatial analysis, and data storytelling for a mobility-tech portfolio project.
 
 ---
 
