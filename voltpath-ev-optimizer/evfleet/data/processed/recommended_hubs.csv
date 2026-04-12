@@ -1,0 +1,6 @@
+hub_id,lat,lon,cluster_label,zone_proximity,estimated_annual_savings,priority_rank
+1,18.59424,73.74218,0,Hinjawadi,128226.0,1
+2,18.51978,73.82333,1,Kothrud,110814.0,2
+3,18.53368,73.93302,2,Kharadi,74416.0,3
+4,18.62326,73.79625,3,Pimpri,54072.0,4
+5,18.47145,73.85014,4,Bibwewadi,33891.0,5

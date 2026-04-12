@@ -1,0 +1,9 @@
+charger_id,name,lat,lon,city,operator,num_points,max_power_kw,status,data_source
+SYN-100,Shivajinagar EV Hub,18.53016498860857,73.84707116317009,Pune,Tata Power,3,22,Operational,Synthetic (Illustrative)
+SYN-101,Hinjawadi IT Park Charger,18.593372461639362,73.73748641898884,Pune,ChargeZone,5,50,Operational,Synthetic (Illustrative)
+SYN-102,Kharadi Tech Zone,18.55536886320228,73.94108431432147,Pune,Ather Grid,7,15,Operational,Synthetic (Illustrative)
+SYN-103,Kothrud Swap Point,18.505906064875433,73.80786358404559,Pune,Sun Mobility,5,7,Operational,Synthetic (Illustrative)
+SYN-104,Wakad Interchange,18.60134996096716,73.7634888824036,Pune,Tata Power,5,22,Operational,Synthetic (Illustrative)
+SYN-105,Hadapsar MIDC,18.50752600988501,73.9326570356971,Pune,MSEDCL,3,7,Operational,Synthetic (Illustrative)
+SYN-106,Pimpri Municipal Depot,18.62987048738815,73.7992447740136,Pune,PMPML,6,22,Operational,Synthetic (Illustrative)
+SYN-107,Yerwada Junction,18.55276374348037,73.89009492205129,Pune,ChargeZone,4,7,Operational,Synthetic (Illustrative)
