@@ -113,7 +113,7 @@ app.py (Streamlit Entry Point)
 
 ### Step 1 — Clone & Install
 ```bash
-git clone https://github.com/yourname/voltpath-ev-optimizer.git
+git clone https://github.com/shravani22patil/voltpath-ev-optimizer.git
 cd voltpath-ev-optimizer
 pip install -r requirements.txt
 ```
