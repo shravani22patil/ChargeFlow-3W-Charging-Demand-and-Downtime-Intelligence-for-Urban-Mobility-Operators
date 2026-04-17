@@ -12,11 +12,15 @@ A portfolio-grade analytics product simulating how EV fleet operators, infrastru
 
 | Overview Dashboard | City Intelligence Map |
 |---|---|
-| `screenshots/overview.png` | `screenshots/city_map.png` |
+| `<img width="1920" height="877" alt="DA1" src="https://github.com/user-attachments/assets/2c72901b-38c2-46e8-a07a-237bb4d0d4fe" />
+` | `<img width="1017" height="836" alt="DA3" src="https://github.com/user-attachments/assets/186768ff-8c7f-4f17-9a8d-5675280fc8e8" />
+` |
 
 | Fleet Performance | Scenario Simulator |
 |---|---|
-| `screenshots/fleet.png` | `screenshots/simulator.png` |
+| `<img width="1470" height="882" alt="DA4" src="https://github.com/user-attachments/assets/dd2a5e27-8f4e-4fba-9b4a-7b44802c1dd2" />
+` | `<img width="1914" height="860" alt="DA7" src="https://github.com/user-attachments/assets/f6c4daca-8734-457e-801b-bcef9f2d62a3" />
+` |
 
 ---
 
