@@ -18,9 +18,9 @@ A portfolio-grade analytics product simulating how EV fleet operators, infrastru
 
 | Fleet Performance | Scenario Simulator |
 |---|---|
-| `<img width="1470" height="882" alt="DA4" src="https://github.com/user-attachments/assets/dd2a5e27-8f4e-4fba-9b4a-7b44802c1dd2" />
-` | `<img width="1914" height="860" alt="DA7" src="https://github.com/user-attachments/assets/f6c4daca-8734-457e-801b-bcef9f2d62a3" /> '
-` |<img width="1501" height="858" alt="DA6" src="https://github.com/user-attachments/assets/84eccaf9-fad0-49c0-a6a5-6872f3b4cbd6" /> '
+| `<img width="1470" height="882" alt="DA4" src="https://github.com/user-attachments/assets/dd2a5e27-8f4e-4fba-9b4a-7b44802c1dd2" /> |<img width="1501" height="858" alt="DA6" src="https://github.com/user-attachments/assets/84eccaf9-fad0-49c0-a6a5-6872f3b4cbd6" /> '
+` | `<img width="1914" height="860" alt="DA7" src="https://github.com/user-attachments/assets/f6c4daca-8734-457e-801b-bcef9f2d62a3" /> |<img width="1914" height="873" alt="DA8" src="https://github.com/user-attachments/assets/c02997c3-92d9-4cb7-b198-7188dad76f6b" />
+
 
 
 ---
