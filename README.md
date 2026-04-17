@@ -13,7 +13,7 @@ A portfolio-grade analytics product simulating how EV fleet operators, infrastru
 | Overview Dashboard | City Intelligence Map |
 |---|---|
 | `<img width="1920" height="877" alt="DA1" src="https://github.com/user-attachments/assets/2c72901b-38c2-46e8-a07a-237bb4d0d4fe" />
-` <img width="1920" height="879" alt="DA2" src="https://github.com/user-attachments/assets/78fc0518-25a6-43cc-be4a-23ab9c2cdf6a" />
+ <img width="1920" height="879" alt="DA2" src="https://github.com/user-attachments/assets/78fc0518-25a6-43cc-be4a-23ab9c2cdf6a" />
 | `<img width="1017" height="836" alt="DA3" src="https://github.com/user-attachments/assets/186768ff-8c7f-4f17-9a8d-5675280fc8e8" />
 ` |<img width="1401" height="629" alt="DA10" src="https://github.com/user-attachments/assets/4fb0bdd9-ec4d-4883-8df7-3275f32c406b" />
 
@@ -22,7 +22,8 @@ A portfolio-grade analytics product simulating how EV fleet operators, infrastru
 |---|---|
 | `<img width="1470" height="882" alt="DA4" src="https://github.com/user-attachments/assets/dd2a5e27-8f4e-4fba-9b4a-7b44802c1dd2" />
 ` | `<img width="1914" height="860" alt="DA7" src="https://github.com/user-attachments/assets/f6c4daca-8734-457e-801b-bcef9f2d62a3" />
-` |
+` |<img width="1501" height="858" alt="DA6" src="https://github.com/user-attachments/assets/84eccaf9-fad0-49c0-a6a5-6872f3b4cbd6" />
+
 
 ---
 
